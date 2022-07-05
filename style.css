@@ -1,0 +1,103 @@
+body{
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    margin: 0px;
+}
+#top-head{
+    font-size: 60px;
+    text-align: center;
+    color: beige
+}
+#section-1{
+    background-image: url(images/donation6.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-bottom: 50px;
+}
+h3{
+    color: white;
+    text-align: center;
+    font-size: 25px;
+    font-weight: bold;
+}
+#donate-now{
+    border: 5px solid brown;
+    height: 25px;
+    width: 100px;
+    margin: auto;
+    text-align: center;
+    font-weight: bold;
+    background-color: brown;
+    color: aliceblue;
+}
+.donate-today{
+    text-align: center;
+}
+#donate-in-taka{
+    display: flex;
+    margin-left: 28%;
+    margin-right: 28%;
+}
+.taka-fig{
+    width: 50%;
+    padding-left: .5%;
+    padding-right: .5%;
+    border: 5px black;
+    text-align: center;
+    margin-right: 2px;
+    background-color: gray;
+    color: aliceblue;
+}
+#donate-plan{
+    display: flex;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+.plan{
+    padding-left: 1%;
+    padding-right: 1%;
+    text-align: center;
+    margin-right: 4px;
+    background-color: rgb(54, 250, 129);
+}
+.why-donation{
+    display: flex;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+.why-photo{
+    width: 35%;
+    margin-right: 2.5%;
+    margin-left: 2.5%;
+}
+.why-text{
+    width: 40%;
+    margin-right: 2.5%;
+    margin-left: 2.5%;
+}
+.how-to-contribute{
+    border: 5px solid brown;
+    height: 25px;
+    width: 150px;
+    margin: auto;
+    text-align: center;
+    font-weight: bold;
+    background-color: brown;
+    color: aliceblue;
+}
+#Subscribe{
+    border: 5px solid brown;
+    height: 25px;
+    width: 100px;
+    margin: auto;
+    text-align: center;
+    font-weight: bold;
+    background-color: brown;
+    color: aliceblue;
+}
+footer{
+    background-color: black;
+    height: 100px;
+    color: aliceblue;
+    text-align: center;
+}
